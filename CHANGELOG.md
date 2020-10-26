@@ -1,3 +1,68 @@
+# [18.3.0](https://github.com/alfa-laboratory/arui-feather/compare/v18.2.4...v18.3.0) (2020-10-15)
+
+
+### Bug Fixes
+
+* updated package-lock ([#1224](https://github.com/alfa-laboratory/arui-feather/issues/1224)) ([8332d45](https://github.com/alfa-laboratory/arui-feather/commit/8332d45e5765f4d6fe6947ddf5197de0afb20dfa))
+
+
+### Features
+
+* **icons:** update alfa-ui-primitives and build new icons ([#1223](https://github.com/alfa-laboratory/arui-feather/issues/1223)) ([1d80361](https://github.com/alfa-laboratory/arui-feather/commit/1d80361494bb15db4b4d23ce2af2ba8b6676a35d))
+
+## [18.2.4](https://github.com/alfa-laboratory/arui-feather/compare/v18.2.3...v18.2.4) (2020-10-12)
+
+
+### Bug Fixes
+
+* check all days in month pick ([1a87d90](https://github.com/alfa-laboratory/arui-feather/commit/1a87d906d358523bb157981a656c57f5de02dc68))
+
+## [18.2.3](https://github.com/alfa-laboratory/arui-feather/compare/v18.2.2...v18.2.3) (2020-10-09)
+
+
+### Bug Fixes
+
+* money input width available ([1f03397](https://github.com/alfa-laboratory/arui-feather/commit/1f03397d79329d7ff0b088127427fdab720748c2))
+
+## [18.2.2](https://github.com/alfa-laboratory/arui-feather/compare/v18.2.1...v18.2.2) (2020-10-07)
+
+
+### Bug Fixes
+
+* adds lock file ([c7392ef](https://github.com/alfa-laboratory/arui-feather/commit/c7392ef46329d26626af88f8ad286db6ce08598b))
+* changed yarn on npm ([#1215](https://github.com/alfa-laboratory/arui-feather/issues/1215)) ([444be9e](https://github.com/alfa-laboratory/arui-feather/commit/444be9ef2490a55264a4af2cf99012e6df36bb52))
+
+<a name="18.2.1"></a>
+## [18.2.1](https://github.com/alfa-laboratory/arui-feather/compare/v18.2.0...v18.2.1) (2020-09-28)
+
+
+### Bug Fixes
+
+* **input:** input wrapper take all remaining from addons space ([0f32ee6](https://github.com/alfa-laboratory/arui-feather/commit/0f32ee6)), closes [#1211](https://github.com/alfa-laboratory/arui-feather/issues/1211)
+
+
+
+<a name="18.2.0"></a>
+# [18.2.0](https://github.com/alfa-laboratory/arui-feather/compare/v18.1.0...v18.2.0) (2020-09-25)
+
+
+### Bug Fixes
+
+* caret position after change with selection ([46eb0a9](https://github.com/alfa-laboratory/arui-feather/commit/46eb0a9))
+* **sauce-connect:** deleted some commands ([7c5e314](https://github.com/alfa-laboratory/arui-feather/commit/7c5e314))
+* **tests:** adds flag for matrices ([#1210](https://github.com/alfa-laboratory/arui-feather/issues/1210)) ([4f950e8](https://github.com/alfa-laboratory/arui-feather/commit/4f950e8))
+* **tests:** replased CI env and split step for lint's check ([e63c166](https://github.com/alfa-laboratory/arui-feather/commit/e63c166))
+
+
+### Features
+
+* deleted old plans and adds new one for github actions ([68f4db5](https://github.com/alfa-laboratory/arui-feather/commit/68f4db5))
+* remove childContextTypes warning ([8496742](https://github.com/alfa-laboratory/arui-feather/commit/8496742))
+* **ui:** add input ref props ([c2253c8](https://github.com/alfa-laboratory/arui-feather/commit/c2253c8))
+* **ui:** add markdown text ([f78d9ec](https://github.com/alfa-laboratory/arui-feather/commit/f78d9ec))
+
+
+
 <a name="18.1.0"></a>
 # [18.1.0](https://github.com/alfa-laboratory/arui-feather/compare/v18.0.0...v18.1.0) (2020-08-07)
 
@@ -2744,6 +2809,3 @@
 ### Features
 
 * move to open source ([2c7f060](https://github.com/alfa-laboratory/arui-feather/commit/2c7f060))
-
-
-
